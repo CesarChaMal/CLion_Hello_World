@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="" />
+    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UfMBxEnfTz4rYA0fO7uHpxAY4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,10 +68,42 @@
       <updated>1575743064864</updated>
       <workItem from="1575743066474" duration="115000" />
       <workItem from="1575743480347" duration="123000" />
+      <workItem from="1577337671476" duration="109000" />
+      <workItem from="1577337901460" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="107" key="#Notifications" timestamp="1577337757879">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="107" key="#Notifications/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337757879" />
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577337766530">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337766530" />
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom" timestamp="1577337954517">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
+    <state width="1557" height="215" key="GridCell.Tab.0.center" timestamp="1577337954517">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
+    <state width="1557" height="215" key="GridCell.Tab.0.left" timestamp="1577337954517">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
+    <state width="1557" height="215" key="GridCell.Tab.0.right" timestamp="1577337954517">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1577337902816">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337902816" />
   </component>
 </project>
