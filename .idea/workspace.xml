@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="" />
+    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +80,8 @@
       <workItem from="1581977444172" duration="22000" />
       <workItem from="1583094856934" duration="24000" />
       <workItem from="1584223139950" duration="48000" />
+      <workItem from="1584753595164" duration="43000" />
+      <workItem from="1586021624090" duration="46000" />
     </task>
     <servers />
   </component>
@@ -85,33 +89,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="107" key="#Notifications" timestamp="1577337757879">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="392" y="107" key="#Notifications/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337757879" />
     <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580029955005">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1580029955005" />
-    <state width="1557" height="215" key="GridCell.Tab.0.bottom" timestamp="1577337954517">
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586021631214">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="215" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
-    <state width="1557" height="215" key="GridCell.Tab.0.center" timestamp="1577337954517">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="215" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
-    <state width="1557" height="215" key="GridCell.Tab.0.left" timestamp="1577337954517">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="215" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
-    <state width="1557" height="215" key="GridCell.Tab.0.right" timestamp="1577337954517">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="215" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577337954517" />
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1584223179474">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1584223179474" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586021631214" />
   </component>
 </project>
