@@ -11,7 +11,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="" />
+    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CLion_Hello_World.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CLion_Hello_World.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,31 +44,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="CLion_Hello_World" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_Hello_World" TARGET_NAME="CLion_Hello_World" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_Hello_World" RUN_TARGET_NAME="CLion_Hello_World">
+    <configuration name="CLion_Hello_World" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_Hello_World" TARGET_NAME="CLion_Hello_World" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_Hello_World" RUN_TARGET_NAME="CLion_Hello_World">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,20 +87,38 @@
       <workItem from="1586022350627" duration="47000" />
       <workItem from="1586600300985" duration="276000" />
       <workItem from="1586804925710" duration="14000" />
+      <workItem from="1587104434747" duration="943000" />
+      <workItem from="1587106487355" duration="50000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586600661809">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587105261971">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586600661809" />
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586804926115">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587105261971" />
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom" timestamp="1587106536908">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586804926115" />
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
+    <state width="1557" height="229" key="GridCell.Tab.0.center" timestamp="1587106536908">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="229" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
+    <state width="1557" height="229" key="GridCell.Tab.0.left" timestamp="1587106536907">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="229" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536907" />
+    <state width="1557" height="229" key="GridCell.Tab.0.right" timestamp="1587106536908">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="229" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104479821">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587104479821" />
   </component>
 </project>
