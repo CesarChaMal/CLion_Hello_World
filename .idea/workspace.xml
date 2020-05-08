@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -78,6 +75,7 @@
       <workItem from="1587106487355" duration="50000" />
       <workItem from="1588506917224" duration="115000" />
       <workItem from="1588507550158" duration="242000" />
+      <workItem from="1588896626121" duration="95000" />
     </task>
     <servers />
   </component>
@@ -89,22 +87,22 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588506971223" />
-    <state width="1557" height="229" key="GridCell.Tab.0.bottom" timestamp="1587106536908">
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom" timestamp="1588896719977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
-    <state width="1557" height="229" key="GridCell.Tab.0.center" timestamp="1587106536908">
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
+    <state width="1557" height="229" key="GridCell.Tab.0.center" timestamp="1588896719977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
-    <state width="1557" height="229" key="GridCell.Tab.0.left" timestamp="1587106536907">
+    <state width="1557" height="229" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
+    <state width="1557" height="229" key="GridCell.Tab.0.left" timestamp="1588896719977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536907" />
-    <state width="1557" height="229" key="GridCell.Tab.0.right" timestamp="1587106536908">
+    <state width="1557" height="229" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
+    <state width="1557" height="229" key="GridCell.Tab.0.right" timestamp="1588896719977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587106536908" />
+    <state width="1557" height="229" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
     <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104479821">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
