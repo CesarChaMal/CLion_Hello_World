@@ -12,14 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc638c6-91d3-4a2a-94cb-283cb476ad20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CLion_Hello_World.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CLion_Hello_World.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CLion_Hello_World.dir/objects.a" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
     <configuration name="CLion_Hello_World" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_Hello_World" TARGET_NAME="CLion_Hello_World" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_Hello_World" RUN_TARGET_NAME="CLion_Hello_World">
@@ -88,6 +83,7 @@
       <workItem from="1589217155507" duration="37000" />
       <workItem from="1590520163378" duration="89000" />
       <workItem from="1590532120800" duration="15000" />
+      <workItem from="1591153857629" duration="77000" />
     </task>
     <servers />
   </component>
@@ -99,22 +95,26 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588506971223" />
-    <state width="1557" height="229" key="GridCell.Tab.0.bottom" timestamp="1588896719977">
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom" timestamp="1591153939334">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
-    <state width="1557" height="229" key="GridCell.Tab.0.center" timestamp="1588896719977">
+    <state width="1557" height="229" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1591153939334" />
+    <state width="1557" height="229" key="GridCell.Tab.0.center" timestamp="1591153939333">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
-    <state width="1557" height="229" key="GridCell.Tab.0.left" timestamp="1588896719977">
+    <state width="1557" height="229" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1591153939333" />
+    <state width="1557" height="229" key="GridCell.Tab.0.left" timestamp="1591153939333">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
-    <state width="1557" height="229" key="GridCell.Tab.0.right" timestamp="1588896719977">
+    <state width="1557" height="229" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1591153939333" />
+    <state width="1557" height="229" key="GridCell.Tab.0.right" timestamp="1591153939333">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="229" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588896719977" />
+    <state width="1557" height="229" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1591153939333" />
+    <state x="301" y="94" key="SettingsEditor" timestamp="1591153937871">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="94" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1591153937871" />
     <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104479821">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
